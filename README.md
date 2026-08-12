@@ -8,7 +8,7 @@ Reproduce, de forma manipulable y a escala molecular, lo que ocurre dentro del v
 
 ## Acceso en línea
 
-👉 https://lucianotejadac.github.io/simulador-marcaje/simulador-marcaje-mdp.html
+👉 https://lucianotejadac.github.io/simulador-marcaje/
 
 No requiere instalación. El HTML es autocontenido y no llama a ningún CDN, así que funciona incluso sin conexión una vez cargado. Basta un navegador moderno con soporte de SVG y eventos de puntero.
 
